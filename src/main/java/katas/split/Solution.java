@@ -15,7 +15,7 @@ public class Solution {
 	
 	public static void main(String[] args) {
 		splitByValue(5, new int[] {1, 3, 5, 7, 6, 4, 2});
-
+		System.out.println("Test");
 	}
 
 }
